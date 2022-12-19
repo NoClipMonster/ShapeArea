@@ -1,0 +1,12 @@
+C:\Users\iaved\source\repos\ShapeArea\bin\Debug\net6.0\ShapeArea.deps.json
+C:\Users\iaved\source\repos\ShapeArea\bin\Debug\net6.0\ShapeArea.dll
+C:\Users\iaved\source\repos\ShapeArea\bin\Debug\net6.0\ShapeArea.pdb
+C:\Users\iaved\source\repos\ShapeArea\obj\Debug\net6.0\ShapeArea.csproj.AssemblyReference.cache
+C:\Users\iaved\source\repos\ShapeArea\obj\Debug\net6.0\ShapeArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iaved\source\repos\ShapeArea\obj\Debug\net6.0\ShapeArea.AssemblyInfoInputs.cache
+C:\Users\iaved\source\repos\ShapeArea\obj\Debug\net6.0\ShapeArea.AssemblyInfo.cs
+C:\Users\iaved\source\repos\ShapeArea\obj\Debug\net6.0\ShapeArea.csproj.CoreCompileInputs.cache
+C:\Users\iaved\source\repos\ShapeArea\obj\Debug\net6.0\ShapeArea.dll
+C:\Users\iaved\source\repos\ShapeArea\obj\Debug\net6.0\refint\ShapeArea.dll
+C:\Users\iaved\source\repos\ShapeArea\obj\Debug\net6.0\ShapeArea.pdb
+C:\Users\iaved\source\repos\ShapeArea\obj\Debug\net6.0\ref\ShapeArea.dll
